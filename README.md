@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="kings-of-wares-banner.png" alt="Kings Of Wares Banner" width="100%"/>
+  <img src="file_000000004740620a9a986874feddc00e.png" alt="Kings Of Wares Banner" width="100%"/>
 </p>
 
 <h1 align="center">👑 Kings Of Wares</h1>
